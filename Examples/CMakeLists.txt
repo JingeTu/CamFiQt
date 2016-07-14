@@ -1,0 +1,2 @@
+add_subdirectory(CamFiExample)
+add_subdirectory(CamFiGUIExample)
